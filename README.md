@@ -13,7 +13,7 @@ Produces a structured, scannable summary from user research session notes and/or
 ## Installation
 
 ```
-claude plugin add --from github:hmcgaw/uxr-skills
+claude plugin add --from github:hm780/uxr-skills
 ```
 
 ## License
