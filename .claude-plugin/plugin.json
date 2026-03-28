@@ -1,0 +1,12 @@
+{
+  "name": "uxr-skills",
+  "description": "Skills for UX researchers - session summaries, synthesis, and analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "Heather McGaw"
+  },
+  "homepage": "https://github.com/hmcgaw/uxr-skills",
+  "repository": "https://github.com/hmcgaw/uxr-skills",
+  "license": "MIT",
+  "keywords": ["ux-research", "user-research", "usability", "research-synthesis", "skills"]
+}
