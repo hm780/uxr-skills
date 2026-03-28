@@ -44,12 +44,12 @@ Use this structure for every summary. Keep everything as bullet points — no pa
 - Format: **Hypothesis** — contradicting observation
 - *Omit if no hypotheses were provided*
 
-### Action Items
-- Follow-ups, things to flag, next steps
-
 ### Additional Observations
 - Anything that doesn't fit above: surprises, tangential insights, emotional reactions, contextual notes
 - This section is freeform
+
+### Action Items
+- Follow-ups, things to flag, next steps
 
 ## Guidelines
 
